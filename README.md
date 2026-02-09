@@ -1,8 +1,3 @@
-Here is a complete `README.md` file for your GitHub repository. It includes all the key sections: project overview, installation, usage, MLflow integration, and insights.
-
-You can copy and paste this directly into your `README.md` file on GitHub.
-
-```markdown
 # 🏸 ML-Workflows-Sentiment-Analysis-Project
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
