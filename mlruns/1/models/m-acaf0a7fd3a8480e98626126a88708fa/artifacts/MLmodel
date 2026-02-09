@@ -1,0 +1,23 @@
+artifact_path: file:///D:/Innomatics/sentiment analysis/mlruns/1/models/m-acaf0a7fd3a8480e98626126a88708fa/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.11
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+    skops_trusted_types: null
+mlflow_version: 3.9.0
+model_id: m-acaf0a7fd3a8480e98626126a88708fa
+model_size_bytes: 40721
+model_uuid: m-acaf0a7fd3a8480e98626126a88708fa
+prompts: null
+run_id: 730d820c56f8459b870a6a38023dd19a
+utc_time_created: '2026-02-03 07:54:29.297196'
