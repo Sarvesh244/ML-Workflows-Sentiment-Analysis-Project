@@ -63,7 +63,7 @@ Analysis of the model coefficients revealed the major drivers of negative sentim
 ### 1. Clone the Repository
 ```bash
 git clone [https://github.com/Sarvesh244/ML-Workflows-Sentiment-Analysis-Project.git](https://github.com/Sarvesh244/ML-Workflows-Sentiment-Analysis-Project.git)
-cd Sentiment-Analysis-of-Real-time-Flipkart-Product-Reviews
+cd ML-Workflows-Sentiment-Analysis-Project
 
 ```
 
